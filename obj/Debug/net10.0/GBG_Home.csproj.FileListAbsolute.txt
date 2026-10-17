@@ -1,0 +1,14 @@
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.GeneratedMSBuildEditorConfig.editorconfig
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.AssemblyInfoInputs.cache
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.AssemblyInfo.cs
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.csproj.CoreCompileInputs.cache
+E:\GBG_Home\bin\Debug\net10.0\GBG_Home.exe
+E:\GBG_Home\bin\Debug\net10.0\GBG_Home.deps.json
+E:\GBG_Home\bin\Debug\net10.0\GBG_Home.runtimeconfig.json
+E:\GBG_Home\bin\Debug\net10.0\GBG_Home.dll
+E:\GBG_Home\bin\Debug\net10.0\GBG_Home.pdb
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.dll
+E:\GBG_Home\obj\Debug\net10.0\refint\GBG_Home.dll
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.pdb
+E:\GBG_Home\obj\Debug\net10.0\GBG_Home.genruntimeconfig.cache
+E:\GBG_Home\obj\Debug\net10.0\ref\GBG_Home.dll
